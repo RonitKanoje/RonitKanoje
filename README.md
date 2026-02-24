@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ronit Kanoje</h1>
-<h3 align="center">AI Engineer | Building Intelligent & Scalable AI Systems</h3>
+<h3 align="center">AI Engineer | ML Engineer</h3>
 
 ---
 
