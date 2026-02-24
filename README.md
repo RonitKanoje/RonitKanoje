@@ -33,8 +33,8 @@ AWS • Kubernetes • Linux • Git
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ronitkanoje&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronitkanoje&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RonitKanoje&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RonitKanoje&theme=tokyonight" />
 </p>
 
 ---
@@ -42,9 +42,9 @@ AWS • Kubernetes • Linux • Git
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ronitkanoje/ronitkanoje/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ronitkanoje/ronitkanoje/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/ronitkanoje/ronitkanoje/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RonitKanoje/RonitKanoje/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RonitKanoje/RonitKanoje/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/RonitKanoje/RonitKanoje/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
