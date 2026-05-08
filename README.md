@@ -59,6 +59,3 @@ AWS • Kubernetes • Linux • Git
   </a>
 </div>
 
----
-
-⚡ *"I don’t just build models — I build intelligent systems."*
