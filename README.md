@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ronit Kanoje</h1>
 <h3 align="center">AI Engineer | ML Engineer</h3>
 
----
 
 ## 🚀 About Me
 
@@ -11,7 +10,6 @@
 - ⚙️ Interested in scalable AI architectures & MLOps  
 - 📍 India  
 
----
 
 ## 🛠 Tech Stack
 
@@ -28,7 +26,6 @@ FastAPI • LangGraph • Docker • Redis • PostgreSQL • Qdrant
 ### ☁️ Cloud & DevOps
 AWS • Kubernetes • Linux • Git  
 
----
 
 ## 📊 GitHub Stats
 
@@ -36,7 +33,6 @@ AWS • Kubernetes • Linux • Git
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RonitKanoje&theme=tokyonight" />
 </p>
 
----
 
 ## 🐍 Contribution Snake
 
@@ -46,7 +42,6 @@ AWS • Kubernetes • Linux • Git
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/RonitKanoje/RonitKanoje/output/github-contribution-grid-snake.svg">
 </picture>
 
----
 
 ## 📫 Connect With Me
 
