@@ -3,13 +3,12 @@
 
 ## About Me
 
-- B.Tech at Sardar Vallabhbhai National Institute of Technology (SVNIT Surat)
-- Building production-ready AI applications powered by LLMs, RAG, and Agentic AI
-- Interested in Machine Learning, Deep Learning, Full-Stack Development, and MLOps
-- Passionate about scalable backend systems and AI infrastructure
-- Based in India
+- B.Tech student at **Sardar Vallabhbhai National Institute of Technology (SVNIT Surat)**
+- Building full-stack applications using the **MERN Stack** and scalable backend architectures
+- Developing production-ready AI systems with **LLMs, RAG, Agentic AI, and Machine Learning**
+- Solved **400+ Data Structures & Algorithms** problems on LeetCode
+- Working with cloud-native technologies, containerization, and modern AI infrastructure
 
----
 
 ## Tech Stack
 
@@ -80,7 +79,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RonitKanoje&theme=tokyonight" />
 </p>
 
----
 
 ## Contribution Graph
 
@@ -90,7 +88,6 @@
   <img alt="GitHub contribution graph" src="https://raw.githubusercontent.com/RonitKanoje/RonitKanoje/output/github-contribution-grid-snake.svg">
 </picture>
 
----
 
 ## Connect With Me
 
