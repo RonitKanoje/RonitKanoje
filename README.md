@@ -6,7 +6,7 @@
 - B.Tech student at **Sardar Vallabhbhai National Institute of Technology (SVNIT Surat)**
 - Building full-stack applications using the **MERN Stack** and scalable backend architectures
 - Developing production-ready AI systems with **LLMs, RAG, Agentic AI, and Machine Learning**
-- Solved **400+ Data Structures & Algorithms** problems on LeetCode
+- Solved **500+ Data Structures & Algorithms** problems on LeetCode
 - Working with cloud-native technologies, containerization, and modern AI infrastructure
 
 
